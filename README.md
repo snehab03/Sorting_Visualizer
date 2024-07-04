@@ -44,6 +44,7 @@ A web-based tool that visualizes various sorting algorithms. Users can see step-
 
 1. Fork the repository.
 2. Create a new branch:
+
     ```sh
     git checkout -b feature/YourFeature
     ```
@@ -57,6 +58,10 @@ A web-based tool that visualizes various sorting algorithms. Users can see step-
     git push origin feature/YourFeature
     ```
 6. Open a pull request.
+   
+![Screenshot from 2024-07-04 23-08-16](https://github.com/snehab03/Sorting_Visualizer/assets/102979174/0576dbc0-ffb2-4cfb-bcf8-943eacbf128b)
+![Screenshot from 2024-07-04 23-09-45](https://github.com/snehab03/Sorting_Visualizer/assets/102979174/35f552b0-c1ff-4f27-8cd3-f13da9a38bde)
+
 
 ## Contact Information
 
