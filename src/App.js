@@ -16,7 +16,7 @@ class App extends Component {
     currentSteps:[],
     count:15,
     delay:100,
-    algorithm:'Bubble Sort',
+    algorithm:'Bubble Sort ',
     timeouts:[],
   };
   ALGORITHMS = {
